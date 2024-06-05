@@ -1,3 +1,6 @@
 # Restaurant-Website
 HTML &amp; CSS Only
-https://gylansalih.github.io/Restaurant-Website/
+
+<p align="center">
+    <img src="https://github.com/GylanSalih/Restaurant-Website/blob/main/img/Showcase_Website.png" />
+</p>
