@@ -1,4 +1,4 @@
-# Restaurant-Website Portfolio #003
+# Restaurant-Website Portfolio
 HTML &amp; CSS Only
 
 <p align="center">
